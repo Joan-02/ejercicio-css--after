@@ -27,19 +27,19 @@
     opacity: 0.35;
 }
 
-/* .card:after {
+.card:after {
     content: "";
     background-color: black;
     opacity: 0.15;
     position: absolute;
     inset: 0;
     transition: opacity 0.2s ease-out;
-} */
+} 
 
-/* .card:hover:after {
+.card:hover:after {
     background-color: black;
     opacity: 0.35;
-}  */
+} 
   
 .card_text {
     justify-content: center;
